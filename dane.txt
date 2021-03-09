@@ -1,0 +1,26 @@
+szerokość:
+0.1
+wysokość:
+0.1
+ilosć węzłów w pionie:
+4
+ilość węzłów w poziomie:
+4
+Współczynnik przewodzenia ciepła k W/m*K:
+25
+Schemat całkowania 2,3,4 pkt:
+2
+Współczynnik rho(gęstość):
+7800
+Współczynnik c (ciepło właściwe):
+700
+Współczynnik t0 (tempetarura początkowa):
+100
+Współczynnik alfa W/m^2*K:
+300
+Temperatura otoczenia (talfa):
+1200
+Krok czasowy (delta tau):
+50
+Czas symulacji:
+500
